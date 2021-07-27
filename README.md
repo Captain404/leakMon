@@ -24,7 +24,7 @@ To setup the script you must have apache2 installed with PHP for the front end t
 If your leakMonitor page is blank check that you have php-sqlite3 installed. 
 
 ```
-sudo apt-get install sqlite php-sqlite3
+sudo apt-get install php-sqlite3
 ```
 
 *Let's get it onto our system*
