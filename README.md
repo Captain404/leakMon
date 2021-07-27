@@ -21,7 +21,7 @@ The app has a script that should run periodically (daily atm) to search for pote
 **Setup**
 
 To setup the script you must have apache2 installed with PHP for the front end to work, the below assumes this has already been set up. 
-If your Leakmonitor page is blank check that you have php-sqlite3 installed. 
+If your leakMonitor page is blank check that you have php-sqlite3 installed. 
 
 ```
 sudo apt-get install sqlite php-sqlite3
